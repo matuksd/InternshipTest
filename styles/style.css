@@ -1,0 +1,12 @@
+footer{
+  text-align: center;
+}
+#B2,#B3{
+  display: none;
+}
+#EmptySKU,#EmptyName,#EmptyPrice,#EmptyWeight,#EmptyHeight,#EmptyLenght,#Emptywidth,#EmptySize{
+  display: none;
+}
+label{
+  font-size: 24px;
+}

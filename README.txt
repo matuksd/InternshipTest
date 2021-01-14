@@ -1,0 +1,1 @@
+This website is made by Dinārs Matuks as a test task project for Junior Developer internship/job. In which i have done all the points written in the given task and in which i have made said website.
